@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "meta": "Who is the protagonist of Assassin's Creed 2, Brotherhood and Revelations?",
+      "correct": "Ezio Auditore",
+      "all": [
+        "Connor Kenway",
+        "Bayek of Siwa",
+        "Ezio Auditore",
+        "Altair Ibn La Ahad"
+      ]
+    },
+    {
+      "meta": "Which of these is a Bethesda Softworks franchise?",
+      "correct": "The Elder Scrolls",
+      "all": ["Far Cry", "The Elder Scrolls", "Call of Duty", "Total War"]
+    },
+    {
+      "meta": "But can it run Crysis?",
+      "correct": "3090 OFC",
+      "all": ["3060", "3090 OFC", "RX 580X", "3080"]
+    }
+  ]
+}
