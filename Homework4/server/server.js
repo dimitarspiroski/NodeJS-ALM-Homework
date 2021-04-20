@@ -47,8 +47,6 @@ const server = http.createServer((req, res) => {
 
       textService.writeDataToDb("../db.json", dbDataStringified);
     });
-    // res.setHeader("Content-Type", "text/html");
-    // res.write('{"message": "New user added!"}');
     res.end();
   }
 });
