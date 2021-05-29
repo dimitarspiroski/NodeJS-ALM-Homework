@@ -1,0 +1,16 @@
+{
+  "dishes": [
+    { "id": "1", "name": "Ratatouille", "price": 3.99 },
+    { "id": "2", "price": "4.5", "name": "Baked Salmon" },
+    {
+      "name": "Bagel",
+      "price": "0.99",
+      "id": "1a38e458-7aa2-448e-b891-9bf6003ca173"
+    },
+    {
+      "name": "Hamburger",
+      "price": "1.99",
+      "id": "d950e8fa-06d7-47ec-b414-9962b0a23ff8"
+    }
+  ]
+}
